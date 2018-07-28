@@ -16,13 +16,4 @@ public class Main {
             System.out.println(p);
         }
     }
-
-//    a. inserting new pets (INSERT INTO PETS (Name, Person_ID, Birtdate, Age, Gender)
-//    values (?,?,?,?,?);
-//    b. inserting new persons (INSERT INTO PERSONS (First_Name, Last_Name, Age,
-//                              Gender) values (?,?,?,?);
-//    c. assigning pets to persons (Update PETS set Person_ID=? where ID=?;)
-
-
-
 }
