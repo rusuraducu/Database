@@ -1,7 +1,5 @@
 package PetShop;
 
-import com.itextpdf.text.pdf.PdfWriter;
-
 import java.sql.*;
 import java.util.List;
 
